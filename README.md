@@ -15,4 +15,4 @@ Cara Menjalankan:
 3. Import database melalui `phpMyAdmin`
 4. Akses via `http://localhost/obat`
 
-Devoloper Daniel Valentino — Mahasiswa Sistem Informasi
+Developer Daniel Valentino — Mahasiswa Sistem Informasi
