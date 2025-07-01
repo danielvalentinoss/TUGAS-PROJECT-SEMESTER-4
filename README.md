@@ -1,20 +1,37 @@
 TUGAS-PROJECT-SEMESTER-4
 
-Aplikasi Sistem Informasi Toko Obat Pelita berbasis Web.  
-Dibuat dengan PHP dan MySQL.
+Aplikasi Sistem Informasi Toko Obat Pelita berbasis Web.
+Dibangun menggunakan PHP dan MySQL, dan dijalankan secara lokal melalui XAMPP.
 
-Fitur:
-- Login dan Logout
-- Manajemen Obat (Tambah, Edit, Hapus)
-- Dashboard Data Obat
-- Sistem Autentikasi
+Fitur Aplikasi
+Login dan Logout
 
-Cara Menjalankan:
-1. Jalankan XAMPP (Apache + MySQL)
-2. Letakkan folder ini di `htdocs`
-3. Import database melalui `phpMyAdmin`
-4. Akses via http://localhost/obat/login.php
-5. lalu setelah sudah masuk,maka akan ada tampilan menu login
-6. untuk username : admin dan password : admin123.
+Manajemen Data Obat (Tambah, Edit, Hapus)
 
-Developer Daniel Valentino — Mahasiswa Sistem Informasi
+Dashboard Data Obat
+
+Sistem Autentikasi Admin
+
+Cara Menjalankan Aplikasi
+Jalankan XAMPP, aktifkan Apache dan MySQL.
+
+Letakkan folder project ini ke dalam direktori C:\xampp\htdocs.
+
+Buka browser dan akses http://localhost/phpmyadmin.
+
+Buat database baru dengan nama obat.
+
+Klik tab Import, lalu pilih file database/obat.sql.
+
+Klik tombol Go untuk menyelesaikan proses import.
+
+Buka aplikasi di browser melalui alamat http://localhost/obat/login.php.
+
+Masukkan data login sebagai berikut:
+Username: admin
+Password: admin123
+
+Developer
+Daniel Valentino
+Mahasiswa Sistem Informasi
+Fakultas Ilmu Komputer
