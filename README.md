@@ -27,6 +27,7 @@ Cara Menjalankan Aplikasi
 7.Buka aplikasi di browser melalui alamat http://localhost/obat/login.php.
 
 Masukkan data login sebagai berikut:
+
 Username: admin
 
 Password: admin123
