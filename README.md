@@ -13,7 +13,7 @@ Cara Menjalankan:
 1. Jalankan XAMPP (Apache + MySQL)
 2. Letakkan folder ini di `htdocs`
 3. Import database melalui `phpMyAdmin`
-4. Akses via `http://localhost/obat/login
+4. Akses via http://localhost/obat/login.php
 5. lalu setelah sudah masuk,maka akan ada tampilan menu login
 6. untuk username : admin dan password : adamin123.
 
