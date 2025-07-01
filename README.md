@@ -15,6 +15,6 @@ Cara Menjalankan:
 3. Import database melalui `phpMyAdmin`
 4. Akses via http://localhost/obat/login.php
 5. lalu setelah sudah masuk,maka akan ada tampilan menu login
-6. untuk username : admin dan password : adamin123.
+6. untuk username : admin dan password : admin123.
 
 Developer Daniel Valentino — Mahasiswa Sistem Informasi
