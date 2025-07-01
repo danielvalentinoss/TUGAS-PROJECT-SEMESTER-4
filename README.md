@@ -28,9 +28,13 @@ Cara Menjalankan Aplikasi
 
 Masukkan data login sebagai berikut:
 Username: admin
+
 Password: admin123
 
 Developer
+
 Daniel Valentino
+
 Mahasiswa Sistem Informasi
+
 Fakultas Ilmu Komputer Indraprasta PGRI
