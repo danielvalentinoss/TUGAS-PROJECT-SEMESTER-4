@@ -4,6 +4,7 @@ Aplikasi Sistem Informasi Toko Obat Pelita berbasis Web.
 Dibangun menggunakan PHP dan MySQL, dan dijalankan secara lokal melalui XAMPP.
 
 Fitur Aplikasi
+
 1.Login dan Logout
 
 2.Manajemen Data Obat (Tambah, Edit, Hapus)
